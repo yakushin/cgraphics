@@ -5,5 +5,6 @@
     <Grid>
         <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="50,62,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
         <RadioButton Content="RadioButton" Height="16" HorizontalAlignment="Left" Margin="178,80,0,0" Name="radioButton1" VerticalAlignment="Top" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="266,168,0,0" Name="comboBox1" VerticalAlignment="Top" Width="120" />
     </Grid>
 </Window>
